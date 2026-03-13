@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a **Computer Engineering graduate** and **Software Engineer** focused on **Full-Stack Development**.<br><br>- 💻 I build modern, responsive **frontend applications** (React) and scalable **backend systems**<br>- 🚀 I enjoy exploring new technologies and improving my problem-solving skills<br>- 📚 Currently improving my **Full-Stack knowledge** and learning **Next.js**<br>- ❤️ Passionate about **Full-Stack Development** , **Machine Learning** and **Embedded Systems**<br>- 💬 Ask me about anything — I’m always happy to help!
+I'm a **Computer Engineering graduate** and **Software Engineer** focused on **Full-Stack Development**.<br><br>
+
+- 💻 I build modern, responsive **web applications** using **React and Next.js** with scalable **backend systems**<br>
+- 🚀 Always exploring new technologies and improving my **problem-solving skills**<br>
+- ❤️ Passionate about **Full-Stack Development**, **Machine Learning**, and **Embedded Systems**<br>
+- 💬 Ask me about anything — I’m always happy to help!
 
 
 ## 🌐 Socials:
